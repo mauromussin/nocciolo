@@ -1,3 +1,5 @@
+Questa è la mia copia su mauromussin
+
 Dati e script per ottenere:
 
 -  un dataset di temperature giornaliere minime, medie e massime su grigliato gauus boaga 1.5km dai dati orari di temperatura della rete meteo regionale lombarda (periodo 2002-2019).
